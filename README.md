@@ -21,6 +21,7 @@ Highly experienced IT professional with over 17 years in various roles including
   <img src="https://github-readme-stats.vercel.app/api?username=diogoaltoe&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=ffd008&text_color=FFFFFF&icon_color=000000" alt="Diogo's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoaltoe&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ffd008&text_color=FFFFFF&icon_color=000000" alt="Top Languages">
 </p>
+
 ---
 
 ## Let’s Connect!
